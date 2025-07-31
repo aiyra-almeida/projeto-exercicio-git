@@ -1,4 +1,4 @@
 # Projeto de Exemplo Git
 
 Editando direto pelo git!!
-Testando habiliddes git
+Testando habilidades git
