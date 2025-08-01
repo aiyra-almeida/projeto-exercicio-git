@@ -14,7 +14,7 @@ Cria um arquivo oculto .git e dá inicio ao mapeamento/rastreamento no git/githu
 
 3. Qual a diferença entre git add e git commit?
 git add = indica quais arquivos serão commitados
-git commit = aceita as alterações feitas na pasta, seja em um arquivo específico ou na criação/adição e um novo
+git commit = aceita as alterações feitas na pasta, seja em um arquivo específico ou na criação/adição e um novo e cria um ponto de salvamento do projeto
 
 5. O que o comando git merge faz?
 git merge une duas ramifições (branch) em uma só.
@@ -23,7 +23,7 @@ git merge une duas ramifições (branch) em uma só.
 para que enviar as alterações locais para o repositório
 
 7. Você conseguiu resolver um conflito de merge? Como foi?
-Acredito que sim, mas não sei como   
+Acredito que sim, mas não entendi como ainda.  
 
 8. Você teve alguma dificuldade durante o exercício?
 Sim, algumas. Resolver o conflito.
